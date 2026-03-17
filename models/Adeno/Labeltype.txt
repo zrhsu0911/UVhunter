@@ -1,0 +1,7 @@
+0   Human_mastadenovirus_A
+1   Human_mastadenovirus_B
+2   Human_mastadenovirus_C
+3   Human_mastadenovirus_D
+4   Human_mastadenovirus_E
+5   Human_mastadenovirus_F
+6   Human_mastadenovirus_G

@@ -1,0 +1,3 @@
+0	Rhinovirus_A
+1	Rhinovirus_B
+2	Rhinovirus_C

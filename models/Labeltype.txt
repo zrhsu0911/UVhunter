@@ -1,0 +1,11 @@
+0   Adenovirus
+1   Coronavirus
+2   Enterovirus
+3   Human_bocavirus
+4   Human_parainfluenza_viruses
+5   Human_respiratory_syncytial_virus
+6   Influenza
+7   Measles_virus
+8   Metapneumovirus
+9   Mumps_virus
+10  Rhinoviruses
